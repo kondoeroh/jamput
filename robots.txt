@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://octopus-app-ztl8x.ondigitalocean.app/sitemap.xml
